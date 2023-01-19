@@ -40,6 +40,7 @@ public class ObtainBlocks {
         net.minecraft.item.Item.itemRegistry.addObject(Block.getIdFromBlock(Blocks.iron_door), "iron_door", new ItemBlock(Blocks.iron_door));
         net.minecraft.item.Item.itemRegistry.addObject(Block.getIdFromBlock(Blocks.redstone_wire), "redstone_wire", new ItemBlock(Blocks.redstone_wire));
         net.minecraft.item.Item.itemRegistry.addObject(Block.getIdFromBlock(Blocks.wall_sign), "wall_sign", new ItemBlock(Blocks.wall_sign));
+        net.minecraft.item.Item.itemRegistry.addObject(Block.getIdFromBlock(Blocks.unpowered_repeater), "unpowered_repeater", new ItemBlock(Blocks.unpowered_repeater));
     }
     @EventHandler
     public void init(FMLInitializationEvent event) {

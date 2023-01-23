@@ -11,6 +11,5 @@ in another words, All Rights Reversed). Modification, decompliation, reposting i
 documentation is in LICENSE file.
 
 # Using the mod
-Using this mod is very easy: Just try to obtain a technical block ItemBlock **with its numerical ID** which is removed with /give command, it works. Piston head and 
-moving piston cannot be placed, sorry for that. Air can be placed only where there is a replacable block. 
+Using this mod is very easy: Just try to obtain a technical block ItemBlock **with its numerical ID** which is removed in 13w37a with /give command, it works. Piston head and moving piston cannot be placed, sorry for that. Air can be placed only where there is a replacable block. 
 

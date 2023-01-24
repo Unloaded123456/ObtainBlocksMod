@@ -3,7 +3,7 @@ A Minecraft Forge 1.7.10-10.13.4.1614 mod for obtaining unobtainable blocks. Imp
 By using that feature, unobtainable (technical) blocks can be obtained with /give command, without any exception. Some of them has weird behavior: For instance, 
 air (#0000) drops from certain mobs, and attempting to obtain a pointable technical block which does not have an ItemReed with Pick Block will result in air item. 
 
-**Technical blocks of other mods are not supported!**
+:warning: **Technical blocks of other mods are not supported!** :warning:
 
 # Licensing
 Unlike other mods, this mod is not licensed under "all rights reserved", because that is oppressive, instead, it is licensed with Gnu General Public License 3.0 (or 
